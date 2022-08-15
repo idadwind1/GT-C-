@@ -5,4 +5,4 @@
 如果要是**有问题却在帮助里没有提到**，请**新建Issue讨论**，谢谢帮助软件成长
 
 ## ***注意！***  
-本软件使用**爬取技术爬取**[translate.google.cn](translate.google.cn)的翻译结果，由于[translate.google.cn](translate.google.cn)是**国内网站**，所以请**不要科学上网（使用VPN）！**
+本软件使用**爬取技术爬取**[translate.google.cn](https://translate.google.cn)的翻译结果，由于[translate.google.cn](https://translate.google.cn)是**国内网站**，所以**不需要科学上网（使用VPN）！**
